@@ -31,5 +31,6 @@
 	<classpathentry kind="lib" path="C:/Users/gkokz/Documents/poi-4.1.0/ooxml-lib/xmlbeans-3.1.0.jar"/>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="lib" path="C:/Users/gkokz/Downloads/sikulixapi-1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/gkokz/Downloads/java-client-7.0.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -1,0 +1,7 @@
+url =https://www.linkedin.com/login?trk=guest_homepage-basic_nav-header-signin
+username =hariveeranki66@gmail.com
+password =Cheetos6^ 
+browser=firefox
+#browser=ie
+Firstname=hari
+LastName=veeranki
